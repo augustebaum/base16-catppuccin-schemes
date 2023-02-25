@@ -1,0 +1,18 @@
+scheme: "Catppuccin (Latte)"
+author: "catppuccin (https://github.com/catppuccin)"
+base00: "eff1f5" # base -- Default Background
+base01: "dce0e8" # crust -- Lighter Background (Used for status bars, line number and folding marks)
+base02: "acb0be" # surface2 -- Selection Background
+base03: "8c8fa1" # overlay1 -- Comments, Invisibles, Line Highlighting
+base04: "7c7f93" # overlay2 -- Dark Foreground (Used for status bars)
+base05: "4c4f69" # text -- Default Foreground, Caret, Delimiters, Operators
+base06: "5c5f77" # subtext1 -- Light Foreground (Not often used)
+base07: "7c7f93" # overlay2 -- Light Background (Not often used)
+base08: "d20f39" # red -- Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base09: "dc8a78" # rosewater -- Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "fe640b" # peach -- Classes, Markup Bold, Search Text Background
+base0B: "40a02b" # green -- Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "179299" # teal -- Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "1e66f5" # blue -- Functions, Methods, Attribute IDs, Headings
+base0E: "ea76cb" # pink -- Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "e64553" # maroon -- Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
